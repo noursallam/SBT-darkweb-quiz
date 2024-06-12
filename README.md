@@ -33,7 +33,29 @@ Last month, a drug trafficking network operating in the UK through the TOR netwo
 9. Find the GPS coordinates of the shipment delivery location.
 10. Identify the name of the seaport where the shipment is being delivered.
 11. ![Login](login.webp)
+To know the credentials
 
+you should use function to getuser Credentials
+
+1- open consule
+
+2-write this function
+
+generateUserCredentials()
+
+Credentials encoded:
+
+VVNSOktGN3lidUQxICwgUEFTUzogQUl5aGZvdDBWOVZJV202Vw==
+
+decode it using the base64
+
+USR:KF7ybuD1 , PASS: AIyhfot0V9VIWm6W
+-------------------------------------------------------------------------------------------------------------------------
+ ![Login](decode.webp)
+ we should decode the title twice to git the right name
+
+
+ 
 ## Quiz Answers
 
 1. What is the username and password to gain access to the site?
